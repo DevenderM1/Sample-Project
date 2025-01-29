@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-29T09:54:53 IST" name="Default suite" finished-at="2025-01-29T09:55:10 IST" duration-ms="16976">
+    <groups>
+    </groups>
+    <test started-at="2025-01-29T09:54:53 IST" name="Default test" finished-at="2025-01-29T09:55:10 IST" duration-ms="16976">
+      <class name="com.celsior.sampleproject.testscripts.Rahul">
+        <test-method signature="example()[pri:0, instance:com.celsior.sampleproject.testscripts.Rahul@7526515b]" started-at="2025-01-29T09:54:53 IST" name="example" finished-at="2025-01-29T09:55:10 IST" duration-ms="16918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- example -->
+      </class> <!-- com.celsior.sampleproject.testscripts.Rahul -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
